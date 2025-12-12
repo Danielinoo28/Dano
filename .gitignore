@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model files (too big for GitHub)
+models/
+
+# Processed data
+data/processed/*
+
+# Raw data (optional: leave empty)
+data/raw/*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
